@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @gnakul2001
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+### Hi or Namaste 👋
+- 📛  My name is Nakul Gupta. 
+- 📍  I am from Narela - Delhi, India, and currently living there.
+- 👀  I’m interested in web developer focusing on the backend and frontend design. 
+- 🌱  My goal is to always build products that provide pixel-perfect, responsive design, and performant experiences.
+- 📫  How to reach me: [Email](mailto:gnakul2001@gmail.com) or [LinkedIn](https://www.linkedin.com/in/thenakulgupta/)
 
-<!---
-gnakul2001/gnakul2001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- ⚡ Fun fact:
+  - ⛺ I have been visiting 2 countries.
+  - 🧱 One of my bucket list is to visit Dubai.
