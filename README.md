@@ -12,3 +12,5 @@
 - ⚡ Fun fact:
   - ⛺ I have been visiting 2 countries.
   - 🧱 One of my bucket list is to settle at London.
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=gnakul2001&theme=nord&no-bg=true&column=4&margin-w=15&margin-h=15&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
