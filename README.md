@@ -5,6 +5,7 @@ I'm **Nakul Gupta** 👨‍💻, a software developer from Delhi, India 🇮🇳
 - [LinkedIn](https://www.linkedin.com/in/thenakulgupta/)
 - [Email](mailto:nakulgupta1042@gmail.com)
 - [LeetCode](https://leetcode.com/gnakul2001)
+- [![Sponsor Badge](https://img.shields.io/badge/-Sponsor-EA4AAA?style=for-the-badge&logo=github-sponsors&logoColor=white)](https://github.com/sponsors/gnakul2001)
   
 🛠 **Tech Stack**:
 - **Languages**: DSA, C++, PHP, Python, Flutter
