@@ -1,5 +1,5 @@
 ### Hello, World! 🌍 | Namaste 🙏
-I'm **Nakul Gupta** 👨‍💻, a software developer from Delhi, India 🇮🇳. My tech journey 🚀 is fueled by my passion for creating impactful innovations 💡. Crafting robust applications 📱, leading vital projects 🚧, and pushing the boundaries of technology 💾 have been landmarks of my journey. From boosting sales by 2.5x at Q1 Business Solutions LLC 📈 to contributing extensively on GitHub 🖥️, my mission has always been to deliver excellence ✨.
+I am **Nakul Gupta** 👨‍💻, a software developer from Delhi, India 🇮🇳. My tech journey 🚀 is fueled by my passion for creating impactful innovations 💡. Crafting robust applications 📱, leading vital projects 🚧, and pushing the boundaries of technology 💾 have been landmarks of my journey. From boosting sales by 2.5x at Q1 Business Solutions LLC 📈 to contributing extensively on GitHub 🖥️, my mission has always been to deliver excellence ✨.
 
 🔗 Connect with me:
 - [LinkedIn](https://www.linkedin.com/in/thenakulgupta/)
