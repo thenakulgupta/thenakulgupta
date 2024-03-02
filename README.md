@@ -63,6 +63,6 @@ Welcome to my GitHub! I'm Nakul, a versatile Full-Stack Developer based in Delhi
 
 [![Nakul's LeetCode Stats](https://leetcode-stats-six.vercel.app/?username=gnakul2001)](https://github.com/KnlnKS/leetcode-stats)
 
-[![GitHub Achievements](https://github-profile-trophy.vercel.app/?username=gnakul2001&theme=nord&no-bg=true&column=4&margin-w=15&margin-h=15&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+[![GitHub Achievements](https://github-profile-trophy.vercel.app/?username=thenakulgupta&theme=nord&no-bg=true&column=4&margin-w=15&margin-h=15&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 Let's connect if you're passionate about creating innovative solutions 💡. I'm always open to discussing new projects or collaboration opportunities 🤝.
