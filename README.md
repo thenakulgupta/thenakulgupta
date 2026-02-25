@@ -1,68 +1,140 @@
-# Nakul Gupta 👨‍💻  
+# Nakul Gupta 👨‍💻
 
-Welcome to my GitHub! I'm Nakul, a versatile Full-Stack Developer based in Delhi, India 🇮🇳. My passion for technology 💻 drives me to explore 🌍 and innovate 🔍, crafting solutions that make an impact 💥. With a strong foundation in both front-end 🖌️ and back-end 🔧 development, I've led projects that have significantly boosted performance 🚀 and user engagement 📈.
+Software Development Engineer | AI Systems | Scalable Backend Architecture
 
-📫 **Get in Touch**  
-- Email: nakulgupta1042@gmail.com 📧  
-- LinkedIn: [Nakul's Linkedin](https://www.linkedin.com/in/thenakulgupta/) 💼  
-- GitHub: [Nakul's GitHub](https://github.com/thenakulgupta/) 👨‍💻  
-- LeetCode: [Nakul's Leetcode](https://leetcode.com/gnakul2001/) 🧩  
-- Website: [Nakul's Portfolio](https://guptanakul.com) 🌐
-- [![Sponsor Badge](https://img.shields.io/badge/-Sponsor-EA4AAA?style=for-the-badge&logo=github-sponsors&logoColor=white)](https://github.com/sponsors/gnakul2001) ❤️
+Delhi, India 🇮🇳
 
-## Skills 🛠️
+---
 
-- **Languages:** C++, PHP, JavaScript, MySQL, Python, Java, HTML/CSS 📜
-- **Platforms:** Linux, AWS, Google Firebase 🌐
-- **Frameworks:** Laravel, Flutter, Node.js, Next.js, React.js 🖥️
-- **Tools:** Git, Postman, Jenkins ⚙️
+## 🚀 About Me
 
-## Work Experience 🏢
+I am a Software Development Engineer specializing in scalable full-stack systems, AI integration, and cloud-native architecture.
 
-### Growhut | Full-Stack Developer (Remote) 🌟
-- **Period:** Sept ’23 - Present 🗓️
-- **Promotion:** Elevated to the role of Full-Stack Developer in Dec ’23, recognizing my comprehensive contributions and leadership in technology initiatives 🎉.
-- **Technologies Used:** Python, JavaScript, Flutter, AI, Next.js, Node.js, TypeScript, AWS, React.js, Git, Linux 🔧
-- **Highlights:** Initially joined as a flutter developer, I quickly took the helm of full-cycle application development projects, integrating AI/ML technologies to enhance product innovation and efficiency 💡. By Dec ’23, my role was formalized to Full-Stack Developer, reflecting my extensive involvement across all technical aspects of the company and my unofficial capacity as a tech lead 👨‍🏫. I have been instrumental in ensuring cross-platform excellence 🎯, driving the technology direction 🧭, and mentoring a team of interns 👨‍🎓, thereby acting in a leadership role both in title and responsibility since my promotion 🚀.
+With hands-on ownership across product strategy, backend systems, DevOps pipelines, and AI-driven automation, I build production-grade applications that are performance-optimized, secure, and scalable.
 
-### Q1 Business Solutions LLC | Software Development Engineer (Remote) 💼
-- **Period:** Jun ’22 - Jun ’23 🗓️
-- **Technologies Used:** PHP, NodeJS, ReactJS, MySQL, AWS, Laravel, Flutter, Git, Postman, Jenkins 🛠️
-- **Achievements:** Spearheaded key projects boosting sales by 2.5x and app performance by 70% 📈, managed a team 🤝, and oversaw AWS operations 🌐.
+Currently working as an **SDE at Growhut**, leading AI integrations and system architecture decisions.
 
-## Achievements 🏆
+---
 
-- 2nd Position at TextBase Titans Hackathon 🥈
-- 75th Rank in Top-200 at Zuno Fellowship Program 📊
-- Ranked 181 globally in a LeetCode contest 🌍
-- Solved 200+ DSA questions on LeetCode 🧩
+## 🛠 Tech Stack
 
-## Projects 📁
+### 💻 Languages
 
-### [TelePayGate](https://dashboard.telepaygate.guptanakul.com)
-- **Technologies:** PHP, Laravel, MySQL, HTML/CSS/JavaScript, AWS 💻
-- **Features:** Integrated multiple payment gateways, REST APIs, enhanced security with OpenSSL, hosted on Linux server 🛡️.
+C++ | Python | JavaScript | TypeScript | PHP | Java | SQL
 
-### [Covid Vaccine Finder](https://covid-vaccine-finder.guptanakul.com)
-- **Technologies:** Python, Django, HTML/CSS/JavaScript, SQLite 🧬
-- **Features:** Live vaccine availability, search filters, data extraction from government APIs 📡.
+### 🧠 AI & Productivity
 
-## Education 🎓
+Generative AI | AI Integration | AI Literacy | ML System Integration
 
-- **Tecnia Institute of Advanced Studies, GGSIPU, India** 🏫
-- **Degree:** Bachelor of Computer Applications 🖥️
-- **CGPA:** 9.3 / 10 🏅
+### 🌐 Frameworks & Backend
 
-📚 **Certifications**:
-- **DSA Problem Solving - Scaler** 🧮
-- **Alpha (DSA with Java)** - By Shradha Khapra, Ex-Microsoft SDE 📚.
+Node.js | Express.js | Next.js | React.js | Laravel | Flutter | WordPress
 
-✨ **Trivia**:
-- Wandered across **2 countries** 🌏 and counting.
-- Dreaming of setting roots in **Dubai** 🏜️.
+### ☁️ Cloud & DevOps
 
-[![Nakul's LeetCode Stats](https://leetcode-stats-six.vercel.app/?username=gnakul2001)](https://github.com/KnlnKS/leetcode-stats)
+AWS (EC2, S3, RDS, Lambda, Route53) | Docker | GitHub CI/CD | Jenkins | Linux | Firebase
 
-[![GitHub Achievements](https://github-profile-trophy.vercel.app/?username=thenakulgupta&theme=nord&no-bg=true&column=4&margin-w=15&margin-h=15&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+### 🗄 Databases
 
-Let's connect if you're passionate about creating innovative solutions 💡. I'm always open to discussing new projects or collaboration opportunities 🤝.
+MySQL | MongoDB
+
+### 🧪 Testing & Monitoring
+
+Jest | Mocha | Grafana
+
+---
+
+# 💼 Work Experience
+
+## Growhut (Remote)
+
+### Software Development Engineer - 3
+
+📅 April 2023 – Present
+
+* Leading AI & ML integrations to enhance product intelligence and automation.
+* Architecting scalable full-stack systems using React.js, Next.js, Node.js, Flutter, and Python.
+* Partnering with management on strategic technology decisions and roadmap alignment.
+* Implementing DevOps best practices with GitHub Actions and AWS infrastructure.
+* Maintaining production-grade architecture with performance and scalability focus.
+* Mentoring junior developers and driving technical excellence initiatives.
+
+**Tech:** Python, Node.js, TypeScript, React.js, Next.js, AWS (EC2, Lambda), Linux, Jest, Mocha
+
+---
+
+### Full-Stack Developer
+
+📅 Dec 2023 – April 2023
+
+* Led end-to-end product development across web and mobile platforms.
+* Integrated AI/ML workflows for enhanced automation and product capability.
+* Streamlined backend APIs and improved application performance.
+* Supervised a team of 5 developers and contributed to product strategy.
+
+---
+
+### Flutter Developer
+
+📅 Sept 2023 – Dec 2023
+
+* Led cross-platform mobile app development using Flutter.
+* Integrated third-party APIs and optimized app performance.
+* Contributed actively to backend and system architecture decisions.
+
+---
+
+## Q1 Business Solutions LLC (Remote)
+
+### Software Development Engineer 1
+
+📅 June 2021 – Sept 2023
+
+* Spearheaded Admin Panel, Web App, and Blogging system development → **2.5x sales increase**.
+* Optimized APIs → **70% performance boost** and 20% reduction in user clicks.
+* Managed CI/CD pipelines with 500+ commits and 200+ merge requests.
+* Led AWS infrastructure operations across projects.
+* Supervised 2 developers, structured team hierarchy of 5 members.
+
+**Tech:** PHP, Laravel, Node.js, React.js, MySQL, AWS, Firebase, Jenkins
+
+---
+
+# 🚀 Featured Projects
+
+## TelePayGate
+
+Payment Gateway Platform (Production-Grade)
+
+* Integrated PayTM, BillDesk, and other payment APIs
+* Designed secure REST APIs for third-party integrations
+* Implemented authentication, authorization & secure transaction flows
+* Enabled merchant payout distribution systems
+* Deployed on AWS EC2 (Linux server)
+
+**Tech:** PHP, Laravel, MySQL, AWS
+
+---
+
+# 🏆 Achievements
+
+* 🥈 2nd Position – TextBase Titans Hackathon
+* 📊 75th Rank – Zuno Fellowship Program (Top 200)
+
+---
+
+# 🎓 Education
+
+## International Institute of Information Technology, Bangalore
+
+Post Graduate Program in Machine Learning & AI (Executive)
+📅 Jan 2024 – Mar 2025
+
+---
+
+# 📫 Connect With Me
+
+* 📧 [gnakul1042@gmail.com](mailto:gnakul1042@gmail.com)
+* 💼 LinkedIn: [https://www.linkedin.com/in/thenakulgupta/](https://www.linkedin.com/in/thenakulgupta/)
+* 💻 GitHub: [https://github.com/thenakulgupta/](https://github.com/thenakulgupta/)
+* 🧩 LeetCode: [https://leetcode.com/gnakul2001/](https://leetcode.com/gnakul2001/)
