@@ -48,7 +48,7 @@ Jest | Mocha | Grafana
 
 ## Growhut (Remote)
 
-### Software Development Engineer - 3
+### Software Development Engineer
 
 📅 April 2023 – Present
 
