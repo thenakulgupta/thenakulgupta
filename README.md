@@ -9,7 +9,7 @@ Delhi, India 🇮🇳
 
 I'm a Backend Engineer with 5+ years of experience building scalable distributed systems, event-driven architectures, and cloud infrastructure for high-availability platforms.
 
-Specialized in **Node.js**, **Python**, **AWS**, real-time systems, CI/CD, and production reliability — across platforms serving **50K+ MAU** and **50K+ concurrent connections**.
+Specialized in **Node.js**, **Python**, **AWS**, real-time systems, CI/CD, and production reliability across platforms serving **50K+ MAU** and **50K+ concurrent connections**.
 
 Strong focus on backend performance, system design, secure multi-tenant systems, and zero-downtime deployments.
 
